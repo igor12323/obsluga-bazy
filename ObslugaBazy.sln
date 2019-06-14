@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObslugaBazy", "WindowsFormsApplication1\ObslugaBazy.csproj", "{7539CFD2-4334-43BB-8AEF-730B903FCB65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7539CFD2-4334-43BB-8AEF-730B903FCB65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7539CFD2-4334-43BB-8AEF-730B903FCB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7539CFD2-4334-43BB-8AEF-730B903FCB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7539CFD2-4334-43BB-8AEF-730B903FCB65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {478B326D-BE6D-4D64-8D06-C998BCA8D4E5}
+	EndGlobalSection
+EndGlobal
